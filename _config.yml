@@ -1,0 +1,28 @@
+name: J3454 - Steadfast print ad
+favicon: null
+layout_spectrum: 0.8885508866515011
+typography_spectrum: 0.6632353947497904
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.15994449122808874
+  lightness: 0.9480318368878216
+  saturation: 0.9990161890164018
+  rhythmicContrast: 0.3782728901132941
+purpose: []
