@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Steadfast Print Ad
-datePublished: '2016-06-01T04:42:57.374Z'
-dateModified: '2016-06-01T04:42:17.736Z'
+datePublished: '2016-06-01T04:44:03.043Z'
+dateModified: '2016-06-01T04:43:07.555Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-01-steadfast-print-ad.md
